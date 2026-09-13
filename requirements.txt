@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+scikit-image>=0.22
+tifffile>=2024.1
+matplotlib>=3.7
+jupyterlab>=4.0
+
+# opcional, para laminillas reales (.svs, .ndpi):
+# openslide-python>=1.3
